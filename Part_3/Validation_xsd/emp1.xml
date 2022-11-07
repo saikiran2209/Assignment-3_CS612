@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hospital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="emp1.xsd">
+   <Doctor id="A1">
+      <speciality>Heart</speciality>
+      <numOfPatients>500</numOfPatients>
+   </Doctor>
+   <Doctor id="A2">
+      <speciality>Brain</speciality>
+      <numOfPatients>450</numOfPatients>
+   </Doctor>
+</Hospital>
